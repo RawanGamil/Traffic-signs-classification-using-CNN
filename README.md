@@ -1,4 +1,4 @@
-# Traffic-signs-classification-using-CNN
+# Traffic-signs-classification-using-CNN 96% accuracy
 
 Autonomous driving cars are becoming popular everywhere and the need for a robust traffic sign recognition system that ensures safety by recognizing traffic signs accurately and fast is increasing.
 
